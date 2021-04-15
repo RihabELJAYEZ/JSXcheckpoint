@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.style1{
+  width: 400px;
+  height: 350px;
+
+}
+.firstbloc{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.titreV{
+  color:deeppink;
+  
+  font-size: 30px;
+}
